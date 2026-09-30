@@ -1,0 +1,8 @@
+# binarios enviados a FPGA: nunca converter fim de linha
+*.bin binary
+*.pt  binary
+# texto sempre em LF
+*.py  text eol=lf
+*.h   text eol=lf
+*.md  text eol=lf
+*.txt text eol=lf

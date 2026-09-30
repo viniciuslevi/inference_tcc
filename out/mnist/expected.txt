@@ -1,0 +1,11 @@
+# idx_mnist_test  label  classe_esperada  logits_int8 (saida esperada da placa)
+img_00_label0.bin  idx=3     label=0 pred=0  logits: 82 -49 -6 -49 -13 -3 23 -15 -2 -12
+img_01_label1.bin  idx=2     label=1 pred=1  logits: 1 60 -1 -28 22 -8 6 5 6 -14
+img_02_label2.bin  idx=1     label=2 pred=2  logits: 31 24 89 -12 -24 -38 17 -42 -2 -38
+img_03_label3.bin  idx=30    label=3 pred=3  logits: -32 -31 -5 97 -15 8 -76 18 -3 41
+img_04_label4.bin  idx=4     label=4 pred=4  logits: -8 -22 -15 -31 87 -19 -13 -1 2 36
+img_05_label5.bin  idx=8     label=5 pred=5  logits: 3 -49 -19 -13 9 65 32 -66 32 42
+img_06_label6.bin  idx=11    label=6 pred=6  logits: 31 -35 -35 -32 -22 5 84 -35 26 -28
+img_07_label7.bin  idx=0     label=7 pred=7  logits: -20 -15 18 17 -12 -21 -96 87 -1 24
+img_08_label8.bin  idx=61    label=8 pred=8  logits: -7 -68 32 30 -37 2 -27 -35 65 17
+img_09_label9.bin  idx=7     label=9 pred=9  logits: -28 -9 -3 -4 40 11 -36 -11 19 60

@@ -1,0 +1,12 @@
+# fashion_mnist: arquivo  idx_no_teste  label  classe_esperada  logits_int8 (saida esperada da placa)
+# classes: 0=tshirt 1=trouser 2=pullover 3=dress 4=coat 5=sandal 6=shirt 7=sneaker 8=bag 9=ankle_boot
+img_00_tshirt.bin  idx=19    label=0 pred=0  logits: 37 -46 6 3 -21 -25 21 -42 -20 -39
+img_01_trouser.bin  idx=2     label=1 pred=1  logits: -4 79 -11 9 -25 -23 -3 -34 -17 -33
+img_02_pullover.bin  idx=1     label=2 pred=2  logits: 20 -54 61 -37 5 -42 5 -64 -30 -40
+img_03_dress.bin  idx=13    label=3 pred=3  logits: -8 -2 -12 43 -17 -31 -7 -24 -32 -19
+img_04_coat.bin  idx=6     label=4 pred=4  logits: -6 -32 32 -14 52 -64 5 -90 -51 -78
+img_05_sandal.bin  idx=8     label=5 pred=5  logits: -14 -42 3 -17 -29 46 -28 4 -5 -35
+img_06_shirt.bin  idx=4     label=6 pred=6  logits: 23 -35 12 -8 6 -34 29 -34 -30 -32
+img_07_sneaker.bin  idx=9     label=7 pred=7  logits: -18 -36 -20 -2 -44 -11 -51 58 -7 7
+img_08_bag.bin  idx=18    label=8 pred=8  logits: -5 -21 -14 -24 -17 -19 6 -11 63 -2
+img_09_ankle_boot.bin  idx=0     label=9 pred=9  logits: -15 -51 -23 -9 -42 -3 -23 21 -10 54
