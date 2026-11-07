@@ -3,3 +3,8 @@ __pycache__/
 *.pyc
 # datasets baixados automaticamente pelo script
 data/
+# imagens JPG avulsas de teste local (nao fazem parte dos modelos)
+testSample/
+testSet/
+# estado de ferramenta de edicao
+.kilo/

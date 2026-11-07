@@ -2,7 +2,7 @@
 """
 build_mnist_int8.py
 -------------------
-Treina a CNN esperada pelo firmware neorv32_mnist_infer em um dataset 28x28x1 de
+Treina a CNN esperada pelo firmware sw/tcc/mnist_infer (repositorio neorv32) em um dataset 28x28x1 de
 10 classes (MNIST ou Fashion-MNIST), quantiza para INT8 e gera os binarios que
 tools/send_weights.py envia para a FPGA. Ambos os datasets usam exatamente a mesma
 arquitetura e o mesmo layout de weights.bin; so muda o model_meta.h (escalas).
