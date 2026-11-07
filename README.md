@@ -80,3 +80,7 @@ python <neorv32>/sw/tcc/mnist_infer/tools/send_weights.py --port COM17 \
     --weights out/fashion_mnist/weights.bin \
     --image   out/fashion_mnist/images/img_06_shirt.bin
 ```
+
+## Licença
+
+BSD-3-Clause (ver `LICENSE`), a mesma do NEORV32.
